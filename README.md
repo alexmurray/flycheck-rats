@@ -1,4 +1,4 @@
-# Flycheck Rats Checker
+# Flycheck rats (Rough Auditing Tool for Security) Checker
 
 [![License GPL 3](https://img.shields.io/badge/license-GPL_3-green.svg)](http://www.gnu.org/licenses/gpl-3.0.txt)
 [![MELPA](http://melpa.org/packages/flycheck-rats-badge.svg)](http://melpa.org/#/flycheck-rats)

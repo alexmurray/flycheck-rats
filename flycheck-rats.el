@@ -1,4 +1,4 @@
-;;; flycheck-rats.el --- Integrate rats with flycheck
+;;; flycheck-rats.el --- Integrate rats (Rough Auditing Tool for Security) with flycheck
 
 ;; Copyright (c) 2017 Alex Murray
 
